@@ -1,0 +1,25 @@
+.card-body {
+  background-color: #34312d;
+  width: 95%;
+  height: 10vh;
+  border-radius: 999px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.stock-name {
+  margin-left: 5px;
+}
+
+.stock-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.details-button {
+ border: none;
+ border-radius: 999px;
+  background-color: #118ab2;
+  padding: 5px 20px;
+}
